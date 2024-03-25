@@ -1,0 +1,12 @@
+https://www.google.com/search?q=mc6205&oq=mc6205&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhBMgYIAhBFGEEyBggDEEUYQdIBCDI2NzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+https://hackaday.io/project/179986-plasma-display-mc6205
+https://hackaday.io/project/178954-mc6205ms6205-esp32-weatherstation-ntp-clock/log/192691-connector-removal
+https://github.com/jopo64/MC6205
+https://github.com/jopo64/MC6205/tree/main/Hardware/schematics
+https://github.com/jopo64/MC6205/blob/main/Hardware/schematics/MC6205-Schematics-hack.jpeg
+https://en.wikipedia.org/wiki/Soviet_integrated_circuit_designation
+https://www.google.com/search?q=%D0%9A155%D0%9B&oq=%D0%9A155%D0%9B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQcyODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+https://kiloom.ru/spravochnik-radiodetalej/microsxema/mikrosxemy-serii-k155.html
+https://kiloom.ru/spravochnik-radiodetalej/microsxema/k155le1-km155le1.html
+https://kiloom.ru/spravochnik-radiodetalej/microsxema/k155ie7-km155ie7.html
+https://en.wikipedia.org/wiki/Russian_alphabet
