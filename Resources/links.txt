@@ -7,9 +7,10 @@ https://github.com/jopo64/MC6205/blob/main/Hardware/schematics/MC6205-Schematics
 https://en.wikipedia.org/wiki/Soviet_integrated_circuit_designation
 https://www.google.com/search?q=%D0%9A155%D0%9B&oq=%D0%9A155%D0%9B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQcyODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
 https://kiloom.ru/spravochnik-radiodetalej/microsxema/mikrosxemy-serii-k155.html
-https://kiloom.ru/spravochnik-radiodetalej/microsxema/k155lr1-km155lr1-kb155lr1-4.html
 https://kiloom.ru/spravochnik-radiodetalej/microsxema/k155ag1.html
+https://www.microshemca.ru/AG1/
 https://en.wikipedia.org/wiki/Russian_alphabet
 http://xn----ctbgeuhdtdb2b.xn--p1ai/price/mikroshemy/?parts&d=kr565ru2
 http://xn----ctbgeuhdtdb2b.xn--p1ai/cfiles/market/4964/1577855991.pdf
 https://www.radiomuseum.org/tubes/tube_kr565ru2.html
+https://www.microshemca.ru/LR1/
